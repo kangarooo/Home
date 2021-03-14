@@ -10,4 +10,4 @@ tmux source-file ~/.tmux.conf
 
 rm .tmux.conf .tmux.conf.1
 
-wget https://raw.githubusercontent.com/kangarooo/Home/main/.tmux.conf && tmux source-file ~/.tmux.conf
+wget wget -O https://raw.githubusercontent.com/kangarooo/Home/main/.tmux.conf && tmux source-file ~/.tmux.conf
