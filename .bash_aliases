@@ -13,3 +13,8 @@ builtin cd "$@" && ls -la && tree -f -L 2 -h -D --du
 # List tree 2 levels deep with all sizes and hidden files
 alias t='tree -f -L 2 -h -D --du -a'
 
+# ZSH-like history in bash
+# https://stackoverflow.com/questions/42299437/zsh-like-history-in-bash
+# ctrl+r or up down when writing
+bind '"\e[A": history-search-backward'
+bind '"\eOA": history-search-backward'
