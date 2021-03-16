@@ -121,13 +121,12 @@ export ZSH="/root/.oh-my-zsh"
 #ZSH_THEME="thm"
 #ZSH_THEME="None Theme"
 #!!!ZSH_THEME="starship.rs"
-#ZSH_THEME="fishbone++"
-#ZSH_THEME=""
-#ZSH_THEME=""
-#ZSH_THEME=""
-#ZSH_THEME=""
-#ZSH_THEME=""
-#ZSH_THEME=""
+###ZSH_THEME="fishbone++"
+###ZSH_THEME="Ohio2"
+##ZSH_THEME="bubblegum"
+##ZSH_THEME="kube"
+##ZSH_THEME="shini"
+
 
 
 
