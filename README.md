@@ -12,7 +12,7 @@ rm .tmux.conf .tmux.conf.1
 
 Use Shift+Right click to paste
 
-sudo apt install tmux -y && git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm && wget -N https://raw.githubusercontent.com/kangarooo/Home/main/.tmux.conf -O $HOME/.tmux.conf && tmux source-file ~/.tmux.conf && wget -N https://raw.githubusercontent.com/kangarooo/dotfiles/main/.bash_aliases -O $HOME/.bash_aliases && . ~/.bashrc
+sudo apt install tmux -y && git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm && wget -N https://raw.githubusercontent.com/kangarooo/dotfiles/main/.tmux.conf -O $HOME/.tmux.conf && tmux source-file ~/.tmux.conf && wget -N https://raw.githubusercontent.com/kangarooo/dotfiles/main/.bash_aliases -O $HOME/.bash_aliases && . ~/.bashrc
 
 
 
